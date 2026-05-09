@@ -1,0 +1,19 @@
+{
+  "name": "com.shimiki.behaviourtree",
+  "version": "0.1.0",
+  "displayName": "BehaviurTree",
+  "description": "This is a custom implementation of a behaviour tree system",
+  "unity": "2018.4",  
+  "keywords": [
+    "behaviour",
+    "tree"
+  ],
+  "author": {
+    "name": "Shimiki",
+    "url": "https://github.com/drydend",
+    "email": "okisthe995@gmail.com"
+  },
+  "license": "MIT",
+  "category": "Utilities"
+}
+
